@@ -1,0 +1,19 @@
+
+h1
+{
+	color: maroon; 
+	font-size: 40px;
+}
+body {
+  background-image: url(https://i.pinimg.com/originals/05/50/ec/0550ec6e4a7390696ace592e80ccb82b.png);
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas
+{
+    margin-top: 10px;
+	border-width:40px;
+	background-color:aquamarine; 
+	border-style:ridge;
+}
